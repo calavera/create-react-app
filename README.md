@@ -23,6 +23,8 @@ When you’re ready to deploy to production, create a minified bundle with `npm 
 
 ## Getting Started
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/calavera/create-react-app&branch=deploy-button)
+
 ### Installation
 
 Install it once globally:
